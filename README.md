@@ -1,7 +1,7 @@
 - 👋 Hello, my name is Viktor Yordanov, I'm from Bulgaria.
 - 🌱 I currently know HTML, CSS, a tiny bit of javascript & python.
 - 💞️ I am wide open to deals and business proposals and collaborations. 
-- 💻 I look for work in Discord servers and sell / create Websites, Discord Bots and also sell games cheaply.
+- 💻 I look for work in Discord servers and sell / create Websites and Discord Bots,
 - 📫 You can reach me Discord: Yordanov#6379
 
 <!---
