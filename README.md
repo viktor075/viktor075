@@ -2,7 +2,7 @@
 - 🌱 I currently know HTML, CSS, a tiny bit of javascript & python.
 - 💞️ I am wide open to deals and business proposals and collaborations. 
 - 💻 I look for work in Discord servers and sell / create Websites, Discord Bots and also sell games cheaply.
-- 📫 You can reach me Discord: yxrdanoww_#9953
+- 📫 You can reach me Discord: Yordanov#6379
 
 <!---
 viktor075/viktor075 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
